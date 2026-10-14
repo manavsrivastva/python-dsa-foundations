@@ -23,3 +23,4 @@ python -m unittest discover -s tests -v
 ```
 
 Read each function and its complexity comments before presenting this portfolio. Be ready to explain why each algorithm works and its trade-offs.
+i have also made few changes which will be there 
